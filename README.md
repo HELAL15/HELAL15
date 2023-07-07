@@ -1,5 +1,5 @@
 
-<img width="400" flex="wrap" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 
 <h3 align="center" flex="wrap" width="200">
   Welcome to Ahmed Helal's profile!
