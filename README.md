@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center" flex="wrap" width="200">
+<h3 align="center" flex="wrap" width="250">
   Welcome to Ahmed Helal's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
