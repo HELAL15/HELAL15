@@ -1,7 +1,7 @@
 
-<img width="150" flex-wrap="wrap" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="200" flex-wrap="wrap" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h3 align="center" flex-wrap="wrap">
+<h3 align="center" flex-wrap="wrap" width="200">
   Welcome to Ahmed Helal's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
