@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmed Helal</h1>
+<h1 align="center">Hi, I'm Ahmed Helal</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="coding" width"400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helal15&label=Profile%20views&color=0e75b6&style=flat" alt="helal15" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helal15" alt="helal15" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_a_helal_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_helal_?logo=twitter&style=for-the-badge" alt="_a_helal_" /></a> </p>
 
