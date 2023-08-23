@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Helal</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="coding" width"400" src="[https://gfycat.com/flimsyfatglowworm-sayings-expressions-thomas-middleditch](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fcoding&psig=AOvVaw0wJecRJoW_QG2mhyKqDPRP&ust=1692895602726000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNio4tqd84ADFQAAAAAdAAAAABAG)">
+<img align="right" alt="coding" width"400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helal15&label=Profile%20views&color=0e75b6&style=flat" alt="helal15" /> </p>
 
