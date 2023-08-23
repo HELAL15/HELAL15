@@ -32,7 +32,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/helall"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="helall" /></a></p><br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HELAL15&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HELAL15&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 
 
