@@ -32,10 +32,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/helall"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="helall" /></a></p><br><br>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helal15&show_icons=true&locale=en&layout=compact" alt="helal15" />
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=helal15&show_icons=true&locale=en" alt="helal15" />
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=helal15&show_icons=true&locale=en" alt="helal15" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=helal15&" alt="helal15" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=helal15&" alt="helal15" />
 
 
 
