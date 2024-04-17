@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [my-portfolio](https://hellal.me/my-portfolio/#my_experties)
+- 👨‍💻 All of my projects are available at [my-portfolio](https://hellal.me/my-portfolio/)
 
 - 💬 Ask me about **html css scss bootstrap tailwind jquery js react**
 
@@ -25,7 +25,7 @@
 <a href="https://twitter.com/_a_helal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_a_helal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-helal-2165b8156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-helal-2165b8156" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22085538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22085538" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.helal.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.helal.15" height="30" width="40" /></a>
+<a href="https://fb.com/ahmed.helal.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.helal.15" height="30" width="40" /></a>
 <a href="https://instagram.com/_helal_15_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_helal_15_" height="30" width="40" /></a>
 </p>
 
