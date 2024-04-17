@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://helal15.github.io/portfolio/](https://helal15.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my-portfolio](https://hellal.me/my-portfolio/#my_experties)
 
-- 💬 Ask me about **html css bootstrap jquery js react**
+- 💬 Ask me about **html css scss bootstrap tailwind jquery js react**
 
 - 📫 How to reach me **1ahmedhelal1@gmail.com**
 
