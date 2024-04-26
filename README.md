@@ -2,7 +2,12 @@
 <img src="https://github.com/HELAL15/cover-png/blob/master/cover.png" alt="helal15" /> 
 
 <h1 align="center">Hi, I'm Ahmed Helal</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">Aspiring frontend developer with a hunger for learning. Let's code together! 🚀
+
+Passionate about creating delightful user experiences through clean and elegant code. Excited to dive deep into the world of frontend development and collaborate on exciting projects that push the boundaries of web technology.
+
+Let's connect and build something amazing together! 💻
+</h3>
 <img align="right" alt="coding" width"400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helal15&label=Profile%20views&color=0e75b6&style=flat" alt="helal15" /> </p>
@@ -11,7 +16,7 @@
 
 - 🔭 I’m currently working on [HAT-TRICK](https://hellal.me/HAT-TRICK/)
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [my-portfolio](https://hellal.me/my-portfolio/)
 
