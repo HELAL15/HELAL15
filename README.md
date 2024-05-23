@@ -1,5 +1,5 @@
 
-<img src="https://github.com/HELAL15/cover-png/blob/master/cover.png" alt="helal15" /> 
+<img src="https://github.com/HELAL15/cover-png/blob/master/cover1.png" alt="helal15" /> 
 
 <h1 align="center">Hi, I'm Ahmed Helal</h1>
 <h3 align="center">Aspiring frontend developer with a hunger for learning. Let's code together! 🚀
