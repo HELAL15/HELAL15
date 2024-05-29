@@ -14,9 +14,7 @@ Let's connect and build something amazing together! 💻
 
 <p align="left"> <a href="https://twitter.com/_a_helal_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_helal_?logo=twitter&style=for-the-badge" alt="_a_helal_" /></a> </p>
 
-- 🔭 I’m currently working on [HAT-TRICK](https://hellal.me/HAT-TRICK/)
-
-- 🌱 I’m currently learning **MongoDB**
+- 🔭 I’m currently working on [Hotel](https://github.com/HELAL15/hotel)
 
 - 👨‍💻 All of my projects are available at [my-portfolio](https://hellal.me/my-portfolio/)
 
