@@ -31,20 +31,6 @@ I'm an aspiring **React Front-End Developer** with a hunger for learning and a p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELAL15&layout=compact&theme=radical" alt="Top Languages" style="max-width: 49%;">
 </div>
 
-## 🖥️ Featured Projects
-
-### 🌐 [Project 1: Riviera Resort](https://hotel-gules.vercel.app/)
-A React-based hotel booking platform featuring:
-- Room and chalet reservations
-- User login and profiles
-- Secure electronic payment integration
-
-### 🌐 [Project 2: Exclusive Ecommerce](https://exclusive15.vercel.app)
-An advanced e-commerce platform built using:
-- **TypeScript** for type safety and reliability
-- **Redux** for state management
-- **React** for dynamic user interfaces
-
 ## 🌐 Connect with Me
 
 <p align="left">
