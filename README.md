@@ -33,13 +33,13 @@ I'm an aspiring **React Front-End Developer** with a hunger for learning and a p
 
 ## 🖥️ Featured Projects
 
-### 🌐 [Project 1: Riviera Resort](https://rivieraresort.com)
+### 🌐 [Project 1: Riviera Resort](https://hotel-gules.vercel.app/)
 A React-based hotel booking platform featuring:
 - Room and chalet reservations
 - User login and profiles
 - Secure electronic payment integration
 
-### 🌐 [Project 2: Exclusive Ecommerce](https://exclusiveecommerce.com)
+### 🌐 [Project 2: Exclusive Ecommerce](https://exclusive15.vercel.app)
 An advanced e-commerce platform built using:
 - **TypeScript** for type safety and reliability
 - **Redux** for state management
