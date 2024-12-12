@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Helal! 👋
+
 
 <img src="https://github.com/HELAL15/cover-png/blob/master/cover1.png" alt="helal15" /> 
 
