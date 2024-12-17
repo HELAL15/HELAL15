@@ -27,8 +27,8 @@ I'm an aspiring **React Front-End Developer** with a hunger for learning and a p
 
 ## 📈 Stats
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HELAL15&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELAL15&layout=compact&theme=radical" alt="Top Languages" style="max-width: 49%;">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=HELAL15&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 49%;"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELAL15&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width:100%; height:300px;">
 </div>
 
 ## 🌐 Connect with Me
