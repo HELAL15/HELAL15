@@ -20,15 +20,15 @@ I'm an aspiring **React Front-End Developer** with a hunger for learning and a p
 </div>
 
 ## ✨ Highlights
-- 🔭 Currently working on [Hotel](https://github.com/HELAL15/hotel), a modern hotel booking platform.
+- 🔭 Currently working on [exclusive ecommerce](https://github.com/HELAL15/exclusive-ecommerce), a modern ecommerce platform.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hellal.me/my-portfolio/).
-- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Tailwind, jQuery, JavaScript, React**.
+- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Tailwind, jQuery, JavaScript, TypeScript, React, Next**.
 - 📫 How to reach me: **1ahmedhelal1@gmail.com**.
 
-## 📈 Stats
+
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=HELAL15&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 49%;"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELAL15&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width:100%; height:300px;">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELAL15&layout=compact&theme=radical" alt="Top Languages" style="max-width: 50%; "> -->
 </div>
 
 ## 🌐 Connect with Me
