@@ -22,7 +22,7 @@ I'm an aspiring **React Front-End Developer** with a hunger for learning and a p
 
 ## ✨ Highlights
 <!-- - 🔭 Currently working on [tastebite](https://github.com/HELAL15/tastebite), a modern food recipes platform. demo: [demo](https://tastebite-alpha.vercel.app/) -->
-- 👨‍💻 All of my projects are available at [My Portfolio]([https://portfolio-helal.vercel.app/]).
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-helal.vercel.app/).
 - 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Tailwind, jQuery, JavaScript, TypeScript, React, Next**.
 - 📫 How to reach me: **1ahmedhelal1@gmail.com**.
 
