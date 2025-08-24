@@ -1,7 +1,7 @@
 
 
 <!-- <img src="https://github.com/HELAL15/cover-png/blob/master/cover1.png" alt="helal15" /> -->
-<h1> Ahmed Helal, Frontend web Developer, ReactJS</h1>
+<h1> Ahmed Helal, Frontend web Developer, ReactJS - NextJS</h1>
 
 ## 🚀 About Me
 I'm an aspiring **React Front-End Developer** with a hunger for learning and a passion for crafting modern, high-performance, and user-friendly web applications. I specialize in building intuitive interfaces that blend functionality with elegant design.
